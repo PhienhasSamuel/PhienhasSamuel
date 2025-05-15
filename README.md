@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Hardware Description Languages (Verilog, VHDL), FPGA development tools (Vivado, Quartus), PCB design**
 
-- 💬 Ask me about **Verilog, VHDL, SystemVerilog, Microcontrollers**
+- 💬 Ask me about **Verilog, VHDL, Microcontrollers**
 
 - 📫 How to reach me **sphinehassamuel@gmail.com**
 
