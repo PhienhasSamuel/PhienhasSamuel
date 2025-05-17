@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm S Phinehas Samuel</h1>
 <h3 align="center">A passionate VLSI engineer and embedded systems developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phienhassamuel&label=Profile%20views&color=0e75b6&style=flat" alt="phienhassamuel" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phienhassamuel" alt="phienhassamuel" /></a> </p>
 
 - 🌱 I’m currently learning **Hardware Description Languages (Verilog, VHDL), FPGA development tools (Vivado, Quartus), PCB design**
