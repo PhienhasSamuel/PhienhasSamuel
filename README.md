@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phienhassamuel" alt="phienhassamuel" /></a> </p>
 
-- 🌱 I’m currently learning **Hardware Description Languages (Verilog, VHDL), FPGA development tools (Vivado, Quartus), PCB design**
+- 🌱 I’m currently learning **Hardware Description Languages (Verilog, VHDL), FPGA development tools (Vivado, Quartus), PCB design & Embedded Systems**
 
 - 💬 Ask me about **Verilog, VHDL, Microcontrollers**
 
