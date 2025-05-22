@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **sphinehassamuel@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGkC9IiB3I/e8nLEu_kznMC-o_ib1G_Xg/view?utm_content=DAGkC9IiB3I&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7a38b48b8c](https://www.canva.com/design/DAGkC9IiB3I/e8nLEu_kznMC-o_ib1G_Xg/view?utm_content=DAGkC9IiB3I&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7a38b48b8c)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/s-phinehas-samuel-730885265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/s-phinehas-samuel-730885265" height="30" width="40" /></a>
